@@ -218,3 +218,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data (too large for GitHub)
+dataset/data.csv
+
+# macOS
+.DS_Store
+
+# LaTeX build files
+report/*.aux
+report/*.bcf
+report/*.fdb_latexmk
+report/*.fls
+report/*.lof
+report/*.lot
+report/*.log
+report/*.out
+report/*.run.xml
+report/*.synctex.gz
+report/*.toc
