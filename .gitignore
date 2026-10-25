@@ -221,6 +221,7 @@ __marimo__/
 
 # Data (too large for GitHub)
 dataset/data.csv
+dataset/*.parquet
 
 # macOS
 .DS_Store
